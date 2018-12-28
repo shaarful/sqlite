@@ -15,7 +15,7 @@
     <?php require('dbcon.php') ?>
     <h2>Learn SQLite</h2>
     <div class="row">
-        <div class="col-5">
+        <div class="col-4">
             <div class="card">
                 <div class="card-header bg-primary text-white">Insert</div>
                 <div class="card-body">
@@ -52,7 +52,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-7">
+        <div class="col-8">
             <div class="card">
                 <div class="card-header bg-success text-white">Dashboard</div>
                 <div class="card-body">
